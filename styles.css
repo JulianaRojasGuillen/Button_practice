@@ -1,0 +1,33 @@
+.botonSearch{
+    color:teal;
+    font-weight: bold;
+    width: 100px;
+    background-color:linen;
+    border-radius: 10px;
+    border-style:solid;
+    border-color:teal;
+    border-width:2px;
+    margin-bottom:10px;
+}
+
+.botonPlus{
+    color:white;
+    font-weight: bold;
+    background-color:teal;
+    border-radius: 50%;
+    border-color:teal;
+    border-style:solid;
+    margin-bottom: 10px;
+}
+
+.botonCreateAccount{
+    color:white;
+    background-color:royalblue;
+    box-shadow: 3px 3px black;
+    border-width:2px;
+    border-color: black;
+}
+
+.botonCreateAccount,.botonPlus,.botonSearch{
+    display: block;
+}
